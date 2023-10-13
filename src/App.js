@@ -55,7 +55,7 @@ function App() {
             <h4>Nombre Completo:</h4>
             <p>{responseData.nombre_completo}</p>
 
-            <h4>Nombres:</h4>
+            <h4>Nombre:</h4>
             <p>{responseData.nombres}</p>
 
             <h4>Apellido Paterno:</h4>
